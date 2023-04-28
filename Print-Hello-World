@@ -1,0 +1,5 @@
+The most basic statement in Python is the "print" statement, which is used to display a message to the user. Here's an example:
+
+print("Hello, world!")
+
+When you run this code, it will print the message "Hello, world!" to the console. This is a common first program that many people write when learning a new programming language.
